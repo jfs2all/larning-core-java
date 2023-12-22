@@ -1,0 +1,57 @@
+[
+  {
+    "qid": 1001,
+    "question": "What is the capital of India?",
+    "options": [
+      "Delhi",
+      "Mumbai",
+      "Kolkata",
+      "Chennai"
+    ],
+    "answer": 1
+  },
+  {
+    "qid": 1002,
+    "question": "What is the capital of USA?",
+    "options": [
+      "New York",
+      "Washington DC",
+      "Los Angeles",
+      "Chicago"
+    ],
+    "answer": 2
+  },
+  {
+    "qid": 1003,
+    "question": "What is the capital of UK?",
+    "options": [
+      "London",
+      "Manchester",
+      "Liverpool",
+      "Birmingham"
+    ],
+    "answer": 1
+  },
+  {
+    "qid": 1004,
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Perth",
+      "Canberra"
+    ],
+    "answer": 4
+  },
+  {
+    "qid": 1005,
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Toronto",
+      "Vancouver",
+      "Ottawa",
+      "Montreal"
+    ],
+    "answer": 3
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1001,
+    "name": "iPhone 11",
+    "brand": "Apple",
+    "price": 70000
+  },
+  {
+    "id": 1002,
+    "name": "OnePlus 7T",
+    "brand": "OnePlus",
+    "price": 35000
+  },
+  {
+    "id": 1003,
+    "name": "Note 8",
+    "brand": "Samsung",
+    "price": 60000
+  },
+  {
+    "id": 1004,
+    "name": "Note 9",
+    "brand": "Samsung",
+    "price": 70000
+  },
+  {
+    "id": 1005,
+    "name": "iPhone 15 pro",
+    "brand": "Apple",
+    "price": 150000
+  },
+  {
+    "id": 1006,
+    "name": "Note 10",
+    "brand": "Samsung",
+    "price": 80000
+  },
+  {
+    "id": 1007,
+    "name": "Note 10 pro",
+    "brand": "Samsung",
+    "price": 100000
+  },
+  {
+    "id": 1009,
+    "name": "OnePlus 8T",
+    "brand": "OnePlus",
+    "price": 45000
+  },
+  {
+    "id": 1010,
+    "name": "iPhone 12 pro",
+    "brand": "Apple",
+    "price": 120000
+  },
+  {
+    "id": 1011,
+    "name": "Google Pixel 4",
+    "brand": "Google",
+    "price": 60000
+  },
+  {
+    "id": 1012,
+    "name": "Google Pixel 4a",
+    "brand": "Google",
+    "price": 30000
+  },
+  {
+    "id": 1013,
+    "name": "Google Pixel 5",
+    "brand": "Google",
+    "price": 70000
+  }
+]
